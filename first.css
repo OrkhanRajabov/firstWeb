@@ -2,20 +2,23 @@
     text-align: center;
 }
 .container{
-    max-width: 1000px;
+    max-width: 500px;
     margin: auto;
     text-align: center;
 
     
     
 }
-
+.section{
+    text-align: left;
+    margin: auto;
+}
 
 .linkedin{
     color: rgb(3, 71, 134);
 }
 .skills ul {
-    display: inline-block; /* Make the ul inline-block */
+    
     text-align: left; /* Align text to the left within the ul */
     padding: 0; /* Remove default padding */
 }
